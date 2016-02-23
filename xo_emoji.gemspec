@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'zekitow@gmail.com'
   s.files       = ["lib/xo_emoji.rb"]
   s.homepage    =
-    'http://rubygems.org/gems/hola'
+    'https://rubygems.org/gems/xo_emoji'
   s.license       = 'MIT'
 end
