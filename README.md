@@ -7,7 +7,7 @@ Xo Emoji is a Ruby Gem specifically written for strip invalid unicodes by cleani
 Just add the following to your Gemfile.
 
 ```ruby
-gem 'xo_emoji', '~> 0.0.1'
+gem 'xo_emoji', '~> 0.0.2'
 ```
 
 And follow that up with a ``bundle install``.
