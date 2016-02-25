@@ -24,5 +24,5 @@ puts str.strip_emojis
 
 ## License
 
-Acts as votable is released under the [MIT
+xo_emoji is released under the [MIT
 License](http://www.opensource.org/licenses/MIT).
